@@ -1,5 +1,5 @@
 # Testing and deployment packages.
-coverage==5.1
+coverage==5.4
 freezegun==0.3.10
 twine==1.12.1
 wheel==0.34.2
